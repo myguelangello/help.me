@@ -1,5 +1,5 @@
 <div align="center">
-  <a href="https://move-next-delta.vercel.app/"><img title="Move.it" src="./src/assets/logo_secondary.svg" /></a>
+  <a href="https://move-next-delta.vercel.app/"><img title="Help.me" src="./src/assets/logo_secondary.svg" /></a>
 </div>
 <div align="center">
   <img src="https://img.shields.io/badge/React-Native-00875F" />
